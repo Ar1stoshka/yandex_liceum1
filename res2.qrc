@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="images">
+    <file>border.PNG</file>
+    <file>eye.png</file>
+    <file>rounded-in-photoretrica (2).png</file>
+    <file>Снимок1.PNG</file>
+    <file>Снимок2.PNG</file>
+  </qresource>
+</RCC>

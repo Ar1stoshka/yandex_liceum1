@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="images">
+    <file>eye.png</file>
+    <file>1640528610_2-abrakadabra-fun-p-serii-chelovek-na-avu-2.jpg</file>
+    <file>border.PNG</file>
+    <file>Снимок.PNG</file>
+    <file>Снимок22.PNG</file>
+    <file>Снимок111.PNG</file>
+  </qresource>
+</RCC>
